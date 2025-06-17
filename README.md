@@ -87,5 +87,5 @@ If you want to help us out, you are more than welcome to. However please make su
 ## License
 
 [`WebDriverAgent` is BSD-licensed](LICENSE). We also provide an additional [patent grant](PATENTS).
-
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/chinsyuu/WebDriverAgent?utm_source=oss&utm_medium=github&utm_campaign=chinsyuu%2FWebDriverAgent&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 Have fun!
